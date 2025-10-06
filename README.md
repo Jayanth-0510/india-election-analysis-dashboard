@@ -88,6 +88,7 @@ It allows users to explore **voting trends, party performance, and voter demogra
 ---
 
 ## 📂 Repository Structure
+  
 indian-election-analysis-dashboard/
 │
 ├── indian-state-level-election.csv      # Dataset
