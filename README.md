@@ -88,14 +88,15 @@ It allows users to explore **voting trends, party performance, and voter demogra
 ---
 
 ## 📂 Repository Structure
-  
+
+```
 indian-election-analysis-dashboard/
 │
 ├── indian-state-level-election.csv      # Dataset
 ├── Election final dashboard.pbix        # Power BI project file
 ├── README.md                            # Project documentation
 └── /images                              # (Optional) Screenshots of dashboard
-
+```
 ---
 
 ## 💡 Future Enhancements
