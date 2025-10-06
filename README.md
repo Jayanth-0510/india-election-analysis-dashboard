@@ -95,7 +95,7 @@ indian-election-analysis-dashboard/
 ├── indian-state-level-election.csv      # Dataset
 ├── Election final dashboard.pbix        # Power BI project file
 ├── README.md                            # Project documentation
-└── /images                              # (Optional) Screenshots of dashboard
+└── /images                              # Screenshots of dashboard
 ```
 ---
 
